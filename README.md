@@ -15,3 +15,10 @@ Tip amounts made in cash are not captured in the data. Nevertheless, revenue fro
 
 ### *What factors are associated with higher tips (credit card only)?*
 The data suggests that tip amounts are not strongly associated with common trip variables, implying that tipping may be more influenced by unmeasured behavioral factors, such as customer satisfaction, interaction quality, payment interface design, etc.
+
+## Fare prediction - Linear regression model
+- Trip distance is the strongest predictor of fare
+- Trip duration also play a role
+- Machine learning models can predict fares with high accuracy --- it can estimate trip fares within ~$2 of the actual fare in most cases
+
+
